@@ -24,4 +24,4 @@
     it also allows you to manipulate your animations from anywhere,
     offering the possibility to stop, play,
     or even get the track's informations from
-    other scripts than the one you originally created it into.
+    other scripts than the one you originally played it into.
